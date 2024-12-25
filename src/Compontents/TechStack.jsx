@@ -25,7 +25,7 @@ import React from 'react';
 
 const TechStack = () => {
   const technologies = [
-    "ReactJS", "JavaScript", "TailwindCSS", "NodeJS", "Express", 
+    "ReactJS","Nextjs", "JavaScript", "TailwindCSS", "NodeJS", "Express", 
     "Redux", "GSAP", "PostgreSQL", "MongoDB", "Docker"
   ];
 

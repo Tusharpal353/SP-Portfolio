@@ -44,13 +44,14 @@ const Details = () => {
         <h2 className="text-2xl font-semibold mb-2">MERNstack Trainee</h2>
         <h3 className="text-xl text-gray-600 mb-4">Techlive Solutions (6 months)</h3>
         <ul className="list-disc pl-5 space-y-2">
-          <li>Designed a scalable data model in GoLang, reducing data retrieval time by 30% and improving system performance.</li>
-          <li>Built efficient data processing pipelines in GoLang, improving query speed by 25%.</li>
-          <li>Optimized database interactions using parallel processing, increasing efficiency by 20%.</li>
-        </ul>
+  <li>Completed an intensive training program at Techlive Solutions, mastering technologies like ReactJS, NodeJS, Express, and MongoDB.</li>
+  <li>Developed and deployed end-to-end industry-grade projects, showcasing expertise in building scalable and efficient applications.</li>
+  <li>Documented the learning process by maintaining a detailed GitHub repository and publishing technical blogs to share insights with the developer community.</li>
+</ul>
+
       </div>
 
-      <h2 className="text-3xl font-bold mt-8 mb-4">Recent Work</h2>
+      <h2 className="text-3xl font-bold mt-8 mb-4">Projects</h2>
       <Projects />
 
       <TechStack />

@@ -21,10 +21,17 @@ const Profile = () => {
         />
       </div>
       <div>
-        <h1 className="font-bold text-2xl mt-12 mx-4">hello there</h1>
-        <h1 className="m-4">Im Tushar Pal , a software developer based on Gujarat, India.</h1>
-        <h1 className="ml-4">21, building epic stuffs to explore more about ReactJS and web development. <br></br>I share what i learn on twitter and sometime i also write Blogs on Dev.to </h1>
-      </div>
+  <h1 className="font-bold text-2xl mt-12 mx-4">Hello there!</h1>
+  <p className="m-4">
+    I'm Tushar Pal, a passionate software developer based in Gujarat, India.  
+  </p>
+  <p className="ml-4">
+    At 21, I'm on an exciting journey of building impactful projects and deepening my expertise in ReactJS and web development. 
+    <br />
+    I love sharing my knowledge and experiences on Twitter and occasionally write insightful blogs on Dev.to. 
+  </p>
+</div>
+
      <div>
       <button className="m-2 border-2 p-2 rounded-full">
 
